@@ -1,0 +1,16 @@
+
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia-Apartamentos-Interativo</title>
+    <link rel="stylesheet" href="C:\Users\Maintenant Pret\Downloads\Guia -Apartamentos-Interativo\html5\data\css"
+</head>
+<body>
+    <h1>Welcome to Guia-Apartamentos-Interativo</h1>
+    <p>Your content goes here.</p>
+    <!-- Add more content here -->
+</body>
+</html>~~~~~~~~~~~-- INSERTION --                                                                                       18,1         Tout
